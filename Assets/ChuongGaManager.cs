@@ -67,7 +67,7 @@ namespace lab2
         IEnumerator WaitForSeconds(float time)
         {
             // errorTxt.SetActive(true);
-            errorTxt.text = "Wrong account";
+            errorTxt.text = "CONNECTION FAILED";
             yield return new WaitForSeconds(time);
             errorTxt.text = "";
             // errorTxt.SetActive(false);
