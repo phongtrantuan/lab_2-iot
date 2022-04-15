@@ -1619,7 +1619,7 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 659095969}
+      - m_Target: {fileID: 659095970}
         m_TargetAssemblyTypeName: lab2.ChuongGaManager, Assembly-CSharp
         m_MethodName: changeLed
         m_Mode: 1
@@ -3129,7 +3129,7 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 659095969}
+      - m_Target: {fileID: 659095970}
         m_TargetAssemblyTypeName: lab2.ChuongGaManager, Assembly-CSharp
         m_MethodName: changePump
         m_Mode: 1
